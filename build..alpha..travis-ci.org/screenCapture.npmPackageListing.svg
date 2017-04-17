@@ -1,0 +1,37 @@
+<svg height="542" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="542" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">  0.  2017-04-17 19:25:22 +0000    44534 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-17 19:25:22 +0000     2524 bytes  create-ava-rule.js</tspan>
+<tspan x="10" y="58">  2.  2017-04-17 19:25:22 +0000     1154 bytes  index.js</tspan>
+<tspan x="10" y="74">  3.  2017-04-17 19:25:22 +0000     1119 bytes  license</tspan>
+<tspan x="10" y="90">  4.  2017-04-17 19:25:22 +0000     3655 bytes  package.json</tspan>
+<tspan x="10" y="106">  5.  2017-04-17 19:25:22 +0000     5241 bytes  readme.md</tspan>
+<tspan x="10" y="122">  6.  2017-04-17 19:25:22 +0000     2474 bytes  rules/assertion-arguments.js</tspan>
+<tspan x="10" y="138">  7.  2017-04-17 19:25:22 +0000     1419 bytes  rules/assertion-message.js</tspan>
+<tspan x="10" y="154">  8.  2017-04-17 19:25:22 +0000     1394 bytes  rules/max-asserts.js</tspan>
+<tspan x="10" y="170">  9.  2017-04-17 19:25:22 +0000      974 bytes  rules/no-async-fn-without-await.js</tspan>
+<tspan x="10" y="186"> 10.  2017-04-17 19:25:22 +0000      469 bytes  rules/no-cb-test.js</tspan>
+<tspan x="10" y="202"> 11.  2017-04-17 19:25:22 +0000      692 bytes  rules/no-duplicate-modifiers.js</tspan>
+<tspan x="10" y="218"> 12.  2017-04-17 19:25:22 +0000     1734 bytes  rules/no-identical-title.js</tspan>
+<tspan x="10" y="234"> 13.  2017-04-17 19:25:22 +0000     2100 bytes  rules/no-ignored-test-files.js</tspan>
+<tspan x="10" y="250"> 14.  2017-04-17 19:25:22 +0000      606 bytes  rules/no-invalid-end.js</tspan>
+<tspan x="10" y="266"> 15.  2017-04-17 19:25:22 +0000      604 bytes  rules/no-nested-tests.js</tspan>
+<tspan x="10" y="282"> 16.  2017-04-17 19:25:22 +0000      470 bytes  rules/no-only-test.js</tspan>
+<tspan x="10" y="298"> 17.  2017-04-17 19:25:22 +0000      552 bytes  rules/no-skip-assert.js</tspan>
+<tspan x="10" y="314"> 18.  2017-04-17 19:25:22 +0000      464 bytes  rules/no-skip-test.js</tspan>
+<tspan x="10" y="330"> 19.  2017-04-17 19:25:22 +0000     2558 bytes  rules/no-statement-after-end.js</tspan>
+<tspan x="10" y="346"> 20.  2017-04-17 19:25:22 +0000      582 bytes  rules/no-todo-implementation.js</tspan>
+<tspan x="10" y="362"> 21.  2017-04-17 19:25:22 +0000      473 bytes  rules/no-todo-test.js</tspan>
+<tspan x="10" y="378"> 22.  2017-04-17 19:25:22 +0000      808 bytes  rules/no-unknown-modifiers.js</tspan>
+<tspan x="10" y="394"> 23.  2017-04-17 19:25:22 +0000     1088 bytes  rules/prefer-async-await.js</tspan>
+<tspan x="10" y="410"> 24.  2017-04-17 19:25:22 +0000     1557 bytes  rules/prefer-power-assert.js</tspan>
+<tspan x="10" y="426"> 25.  2017-04-17 19:25:22 +0000      876 bytes  rules/test-ended.js</tspan>
+<tspan x="10" y="442"> 26.  2017-04-17 19:25:22 +0000      886 bytes  rules/test-title.js</tspan>
+<tspan x="10" y="458"> 27.  2017-04-17 19:25:22 +0000     2381 bytes  rules/use-t-well.js</tspan>
+<tspan x="10" y="474"> 28.  2017-04-17 19:25:22 +0000      794 bytes  rules/use-t.js</tspan>
+<tspan x="10" y="490"> 29.  2017-04-17 19:25:22 +0000      805 bytes  rules/use-test.js</tspan>
+<tspan x="10" y="506"> 30.  2017-04-17 19:25:22 +0000     2119 bytes  rules/use-true-false.js</tspan>
+<tspan x="10" y="522"> 31.  2017-04-17 19:25:22 +0000     1962 bytes  util.js</tspan>
+</text>
+</svg>
